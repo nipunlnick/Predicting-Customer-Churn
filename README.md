@@ -31,23 +31,25 @@ The goal of this project is to develop predictive models that can identify custo
 - **Target Variable:** `churn` (whether the customer has churned)
 
 ## Models Used
+**Contributor:** Dilan Madhusankha
 - K-nearest neighbor (KNN)
 - Naive Bayes
+  
+**Contributor:** Nipun Lakshitha
 - Logistic Regression
 - Support Vector Machines (SVM)
+
+**Contributor:** Dileka Ratnayaka
 - Decision Tree
 - Random Forest
+
+**Contributor:** Samuditha Saradindu
 - Deep Neural Networks (DNN)
 - Boosting Algorithms
 
 ## Results
 - **Best Individual Model:** KNN with an accuracy of 74% and a recall of 0.68.
 - **Best Ensemble Technique:** Stacking, with an accuracy of 80% and a recall of 0.74.
-
-## How to Run
-1. Clone the repository.
-2. Install dependencies from `requirements.txt`.
-3. Run the Jupyter notebooks in the `/notebooks` directory to see the analysis and results.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
